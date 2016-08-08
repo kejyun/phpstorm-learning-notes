@@ -6,8 +6,8 @@
 
 | 項目  | 網址 |
 |---|---|
-|  Github Page | http://kejyun.github.io/phpstorm-learning-note/  |
-|  GitBook | http://kejyuntw.gitbooks.io/phpstorm-learning-note/  |
+|  Github Page | http://kejyun.github.io/phpstorm-learning-notes/  |
+|  GitBook | http://kejyuntw.gitbooks.io/phpstorm-learning-notes/  |
 
 ### 聯絡資訊
 
